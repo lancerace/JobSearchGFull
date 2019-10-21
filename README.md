@@ -20,3 +20,9 @@
 - IDE Eclipse environment
 
 - run spring boot project
+
+** individual repo **
+
+Frontend -  https://github.com/lancerace/jobsearchg
+ 
+Backend - https://github.com/lancerace/jobsearchGBackEnd
