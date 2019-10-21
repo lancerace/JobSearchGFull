@@ -21,7 +21,7 @@
 
 - run spring boot project
 
-** individual repo **
+**individual repo**
 
 Frontend -  https://github.com/lancerace/jobsearchg
  
